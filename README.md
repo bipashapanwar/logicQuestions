@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bipashapanwar/logicQuestions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bipashapanwar/logicQuestions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
