@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
+| [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
