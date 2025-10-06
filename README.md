@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bipashapanwar/logicQuestions/tree/master/0125-valid-palindrome) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
