@@ -13,11 +13,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
