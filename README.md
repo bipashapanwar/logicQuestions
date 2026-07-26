@@ -1,4 +1,4 @@
-# logicQuestions
+# logic-questions
 Contains leetcode and some DSA questions solved using mainly Python and a few with Java.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
