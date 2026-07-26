@@ -1,5 +1,5 @@
 # logicQuestions
-Contains leetcode questions solved using mainly Python and a few with Java.
+Contains leetcode and some DSA questions solved using mainly Python and a few with Java.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
