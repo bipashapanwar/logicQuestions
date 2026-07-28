@@ -23,6 +23,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -44,15 +45,21 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0125-valid-palindrome](https://github.com/bipashapanwar/logicQuestions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
