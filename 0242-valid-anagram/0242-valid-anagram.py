@@ -1,14 +1,14 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        if(len(s)!=len(t)):
+        count={} #empty dictionary to store frequencies
+        #if len is unequal, can't be anagram
+        if len(s)!=len(t):
             return False
-        count={} #empty dictionary to store count for each letter
-        for i in range(len(s)):
-            count[s[i]]=count.get(s[i],0)+1
-            count[t[i]]=count.get(t[i],0)-1
-        for value in count.values():
-            if (value!=0):
+        for i in s:
+            count[i]=count.get(i,0)+1 #set frequencies
+        for i in t:
+            count[i]=count.get(i,0)-1 #remove frequencies
+            if count.get(i)<0: 
                 return False
-                break
-
         return True
+        
