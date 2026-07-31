@@ -15,6 +15,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
+| [1929-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
