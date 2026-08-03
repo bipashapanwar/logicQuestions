@@ -15,6 +15,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [1929-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
@@ -23,6 +24,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
@@ -100,4 +102,8 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
