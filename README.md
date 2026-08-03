@@ -13,6 +13,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
@@ -23,6 +24,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
@@ -62,6 +64,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
@@ -71,6 +74,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +101,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -106,4 +111,8 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
