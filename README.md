@@ -15,6 +15,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [1929-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0001-two-sum](https://github.com/bipashapanwar/logicQuestions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bipashapanwar/logicQuestions/tree/master/0389-find-the-difference) |
@@ -58,6 +60,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bipashapanwar/logicQuestions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
@@ -68,6 +71,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | ------- |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bipashapanwar/logicQuestions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/bipashapanwar/logicQuestions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
@@ -81,9 +85,19 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
