@@ -19,6 +19,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0804-unique-morse-code-words](https://github.com/bipashapanwar/logicQuestions/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/bipashapanwar/logicQuestions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1929-concatenation-of-array) |
@@ -37,6 +38,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0389-find-the-difference](https://github.com/bipashapanwar/logicQuestions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0804-unique-morse-code-words](https://github.com/bipashapanwar/logicQuestions/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/bipashapanwar/logicQuestions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bipashapanwar/logicQuestions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -125,4 +127,8 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bipashapanwar/logicQuestions/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
