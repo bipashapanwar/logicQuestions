@@ -37,6 +37,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1207-unique-number-of-occurrences](https://github.com/bipashapanwar/logicQuestions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bipashapanwar/logicQuestions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -63,6 +64,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0387-first-unique-character-in-a-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bipashapanwar/logicQuestions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bipashapanwar/logicQuestions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
