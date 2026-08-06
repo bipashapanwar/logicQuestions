@@ -9,6 +9,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/bipashapanwar/logicQuestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bipashapanwar/logicQuestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/bipashapanwar/logicQuestions/tree/master/2383-add-two-integers) |
@@ -164,6 +165,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bipashapanwar/logicQuestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bipashapanwar/logicQuestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
 ## Memoization
