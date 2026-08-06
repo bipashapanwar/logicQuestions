@@ -9,6 +9,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/bipashapanwar/logicQuestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/bipashapanwar/logicQuestions/tree/master/2383-add-two-integers) |
 ## Array
@@ -116,6 +117,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/bipashapanwar/logicQuestions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/bipashapanwar/logicQuestions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/bipashapanwar/logicQuestions/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
@@ -162,6 +164,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/bipashapanwar/logicQuestions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
