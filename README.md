@@ -8,6 +8,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0009-palindrome-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/bipashapanwar/logicQuestions/tree/master/2383-add-two-integers) |
 ## Array
 |  |
@@ -151,4 +152,16 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/bipashapanwar/logicQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
