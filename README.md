@@ -6,6 +6,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bipashapanwar/logicQuestions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/bipashapanwar/logicQuestions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bipashapanwar/logicQuestions/tree/master/0258-add-digits) |
@@ -166,6 +167,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bipashapanwar/logicQuestions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/bipashapanwar/logicQuestions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bipashapanwar/logicQuestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bipashapanwar/logicQuestions/tree/master/0342-power-of-four) |
