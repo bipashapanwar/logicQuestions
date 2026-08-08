@@ -85,6 +85,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0389-find-the-difference](https://github.com/bipashapanwar/logicQuestions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/bipashapanwar/logicQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/bipashapanwar/logicQuestions/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/bipashapanwar/logicQuestions/tree/master/0520-detect-capital) |
 | [0804-unique-morse-code-words](https://github.com/bipashapanwar/logicQuestions/tree/master/0804-unique-morse-code-words) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bipashapanwar/logicQuestions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/bipashapanwar/logicQuestions/tree/master/2351-first-letter-to-appear-twice) |
