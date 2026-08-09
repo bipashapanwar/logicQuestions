@@ -74,6 +74,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0344-reverse-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bipashapanwar/logicQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1768-merge-strings-alternately](https://github.com/bipashapanwar/logicQuestions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0500-keyboard-row](https://github.com/bipashapanwar/logicQuestions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/bipashapanwar/logicQuestions/tree/master/0520-detect-capital) |
 | [0804-unique-morse-code-words](https://github.com/bipashapanwar/logicQuestions/tree/master/0804-unique-morse-code-words) |
+| [1768-merge-strings-alternately](https://github.com/bipashapanwar/logicQuestions/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bipashapanwar/logicQuestions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/bipashapanwar/logicQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bipashapanwar/logicQuestions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
