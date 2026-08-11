@@ -1,9 +1,7 @@
 class Solution(object):
+    #can be done using recursion also
     def fib(self, n):
-        if n<=1:
+        if n==0 or n==1:
            return n
-        a,b=0,1
-        for _ in range(2,n+1):
-            a,b=b,a+b
-        return b
+        return self.fib(n-1)+self.fib(n-2)
         
