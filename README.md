@@ -29,6 +29,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0804-unique-morse-code-words](https://github.com/bipashapanwar/logicQuestions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/bipashapanwar/logicQuestions/tree/master/1207-unique-number-of-occurrences) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/bipashapanwar/logicQuestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/bipashapanwar/logicQuestions/tree/master/1929-concatenation-of-array) |
