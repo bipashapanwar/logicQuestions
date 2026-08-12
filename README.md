@@ -22,6 +22,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bipashapanwar/logicQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/bipashapanwar/logicQuestions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bipashapanwar/logicQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bipashapanwar/logicQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -75,6 +76,7 @@ Contains leetcode and some DSA questions solved using mainly Python and a few wi
 | ------- |
 | [0125-valid-palindrome](https://github.com/bipashapanwar/logicQuestions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bipashapanwar/logicQuestions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/bipashapanwar/logicQuestions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bipashapanwar/logicQuestions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bipashapanwar/logicQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bipashapanwar/logicQuestions/tree/master/0350-intersection-of-two-arrays-ii) |
